@@ -1,0 +1,9 @@
+{
+  "name": "chitin-chronicle",
+  "version": "1.0.0",
+  "description": "Multi-agent editorial coordination for agentic teams. Shared content registry, cross-agent claim system, publication ledger, and timeline tracking. Prevents duplicate publishing across agents and channels. The first multi-agent editorial workflow skill on ClawHub. Visit chitin.xyz for the full agentic OS.",
+  "author": "chitintrust",
+  "tags": ["editorial", "content", "multi-agent", "publishing", "coordination", "chitin"],
+  "created": "2026-02-28",
+  "license": "MIT"
+}
